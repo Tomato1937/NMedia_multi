@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NMedia</string>
+    <string name="click_me">Click me</string>
+    <string name="title" translatable="false">Title</string>
+    <string name="artist" translatable="false">Artist</string>
+    <string name="published">Published</string>
+    <string name="genre">Genre</string>
+</resources>
